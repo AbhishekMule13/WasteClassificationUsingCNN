@@ -44,13 +44,13 @@ The model is trained on labeled images and evaluated using accuracy, loss, and c
 ## 📷 Screenshots
 
 ### 📌 Dataset Sample
-![Dataset Sample](assets/Screenshot1.png)
+![Dataset Sample](Screenshot1.png)
 
 ### 🧠 Model Interface
-![Interface](assets/Interface.png)
+![Interface](Interface.png)
 
 ### 📈 Training Results
-![Training Results](assets/After_Classification_1.png)
+![Training Results](After_Classification_1.png)
 
 ---
 
