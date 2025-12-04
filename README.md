@@ -58,7 +58,7 @@ The model is trained on labeled images and evaluated using accuracy, loss, and c
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Shrutik1008/WasteClassificationUsingCNN.git
+   git clone https://github.com/AbhishekMule13/WasteClassificationUsingCNN.git
    cd WasteClassificationUsingCNN
    ```
 
